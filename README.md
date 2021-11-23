@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
   _________________
 <div align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight">
 </div>
