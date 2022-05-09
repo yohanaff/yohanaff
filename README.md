@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
   <p><h3> Hello world! I'm Yohana :)</h3></p>
   <p><h1>:woman_technologist:</h1></p>
-  
-  _________________
 
 <div align="center"> 
       <h3>:hammer_and_wrench: Tech stack</h3>
