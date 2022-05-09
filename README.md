@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <div align="center">
   <p><h3> Hello world! I'm Yohana :)</h3></p>
   <p><h1>:woman_technologist:</h1></p>
-  <p>I'm from Brazil and I work as a junior developer at NTT DATA. I'm also a mathematican student at Universidade Federal de Santa Catarina (UFSC).</p>
-  </div>
   
   _________________
 
