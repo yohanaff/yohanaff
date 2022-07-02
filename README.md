@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p><h3> Hello world! I'm Yohana :)</h3></p>
-  <p><h1>:woman_technologist:</h1></p>
 <div align="center"> 
       <h3>:hammer_and_wrench: Tech stack</h3>
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
