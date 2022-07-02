@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <p><h3> Hello world! I'm Yohana :)</h3></p>
+  <p>I'm passionate about technology (really, I'm almost a cyborg) and I've been studying and practicing to become a better programmer.</p>
 <div align="center"> 
       <h3>:hammer_and_wrench: Tech stack</h3>
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
