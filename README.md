@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+
   <h3> Hello world, I'm Yohana! :robot:</h3>
   <p>I'm passionate about technology (really, I'm almost a cyborg) and I've been studying and practicing to become a better programmer.</p>
   
+<a href="https://www.linkedin.com/in/yohanaf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   _________________
   
 <h3>:hammer_and_wrench: Tech Stack</h3>
@@ -39,4 +41,7 @@ Here are some ideas to get you started:
   
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight">
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 </div>
