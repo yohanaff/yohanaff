@@ -42,6 +42,4 @@ Here are some ideas to get you started:
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight">
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
