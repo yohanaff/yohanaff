@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 </p>
 
   _________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact&hide=html&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Yohanaff's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&hide=html&langs_count=10&theme=tokyonight)
+![Yohanaff's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight)
 
 </div>
