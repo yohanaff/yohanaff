@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
 
   <h3> Hello world, I'm Yohana! :robot:</h3>
-  <p>I'm passionate about technology and I've been studying and practicing to become a better programmer.</p>
+  <p>
+    A passionate full-stack developer from Brazil. I have experience with Java, JavaScript, and other web technologies. I love working on projects that make a difference and aim to create a positive impact through technology.
+  </p>
   
   _________________ 
   
@@ -39,8 +41,8 @@ Here are some ideas to get you started:
 </p>
 
   _________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanaff&layout=compact&hide=html&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-nine-32.vercel.app/api/top-langs/?username=yohanaff&layout=compact&hide=html&langs_count=10&theme=tokyonight)](https://github.com/yohanaff/github-readme-stats)
 
-![Yohanaff's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight)
+![Yohanaff's GitHub stats](https://github-readme-stats-phi-nine-32.vercel.app/api?username=yohanaff&show_icons=true&theme=tokyonight)
 
 </div>
