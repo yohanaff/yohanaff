@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
   <h3> Hello world, I'm Yohana! :robot:</h3>
   <p>
-    A passionate full-stack developer from Brazil. I have experience with Java, JavaScript, and other web technologies. I love working on projects that make a difference and aim to create a positive impact through technology.
+    Full-stack developer from Brazil with experience in Java, JavaScript, and web technologies. Passionate about creating a positive impact through technology 🌟
   </p>
   
   _________________ 
   
-<h3>:hammer_and_wrench: Tech Stack</h3>
+<h3>:hammer_and_wrench: Skills</h3>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/> 
