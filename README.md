@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   <h3> Hello world, I'm Yohana! :robot:</h3>
   <p>
-    Backend developer from Brazil with experience in Java, JavaScript, and web technologies. Passionate about creating a positive impact through technology 🌟
+    Backend developer from Brazil with experience in Java, TypeScript, and web technologies. Passionate about creating a positive impact through technology 🌟
   </p>
   
   _________________ 
